@@ -33,8 +33,4 @@ class BandInput extends Component {
   }
 }
 
-// const mapDispatchToProps = dispatch => ({
-//   addBand: (band) => dispatch({type: 'ADD_BAND', payload: band})
-// })
-
 export default BandInput
